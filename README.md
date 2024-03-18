@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Matthew Bell
+I am Matthew Bell.
 On my profile you will find multiple repos of project work during an Online Skills Bootcamp run by Cogrammar and HyperionDev
 <!--
 **mattyb1217/mattyb1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
